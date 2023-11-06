@@ -1,0 +1,2 @@
+
+ insert into chk2 ('ragu','ag') values ('45','45');

@@ -1,0 +1,17 @@
+
+ insert into table2 ('ragu') values ('1');
+ insert into table2 ('agr') values ('2');
+ insert into table2 ('agragu') values ('3');
+ insert into table2 ('check') values ('4');
+ insert into table2 ('ragu','asdasd') values ('1','2');
+ insert into table2 ('agr','asdasd') values ('2','6');
+ insert into table2 ('agragu','asdasd') values ('3','8');
+ insert into table2 ('check','asdasd') values ('4','9');
+ insert into table2 ('ragu','asdasd') values ('1','2');
+ insert into table2 ('agr','asdasd') values ('2','6');
+ insert into table2 ('agragu','asdasd') values ('3','8');
+ insert into table2 ('check','asdasd') values ('4','9');
+ insert into table2 ('ragu','asdasd') values ('1','2');
+ insert into table2 ('agr','asdasd') values ('2','6');
+ insert into table2 ('agragu','asdasd') values ('3','8');
+ insert into table2 ('check','asdasd') values ('4','9');

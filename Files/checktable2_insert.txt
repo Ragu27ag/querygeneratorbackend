@@ -1,0 +1,3 @@
+
+ insert into checktable2 ('ragu','ag') values ('1','2');
+ insert into checktable2 ('agr','ragu') values ('34','4');

@@ -1,0 +1,13 @@
+
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45','45');
+ insert into chk ('ragu','ag') values ('45','45');
+ insert into chk ('agr','ragu') values ('34','4');
+ insert into chk ('agragu') values ('3');
