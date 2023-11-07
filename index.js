@@ -12,7 +12,7 @@ dotenv.config();
 client.connect();
 
 app.get("/health", (req, res) => {
-  res.send("connected");
+  res.send("Running");
 });
 
 app.use("/", querygenerate);
